@@ -1,8 +1,5 @@
-# Name-Generator
+# Name Generator
 A simple CLI (command line interface) to generate first, middle, and last names
-
-# Name Generator Program
-
 ## Overview
 The Name Generator program is a simple Python-based tool that generates random names using predefined lists of first names (male and female) and last names. The program allows users to generate names based on gender and keeps track of previously used names to prevent duplicates during a session.
 
