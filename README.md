@@ -20,9 +20,10 @@ When the program starts, it loads all the names from these directories into memo
 ### Usage Instructions:
 1. **Run the Program**: Once installed, run the program by executing `run_namegen.bat`.
 2. **Generate a Name**: Enter 'g' to generate a new name, and specify the gender (male or female).
-   a. To select a male name, enter any of the following: "male", "m", "boy", "man", "b"
-   b. To select a female name, enter any of the following: "female", "f", "girl", "g", "woman"
-4. **Quit the Program**: Enter 'q' to quit the program.
+   a. ***To select a male name, enter any of the following:*** `"male", "m", "boy", "man", "b"`
+   b. ***To select a female name, enter any of the following:*** `"female", "f", "girl", "g", "woman"`
+3. **Quit the Program**: Enter 'q' to quit the program.
+
 
 ---
 
